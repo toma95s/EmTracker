@@ -11,13 +11,6 @@ A command-line application from scratch to manage a company's employee database,
 <img width="60" alt="badge7" src="https://img.shields.io/badge/-Insomnia-brightgreen">
 
 
-
-
-
-
-
-
-
 <h2> License </h2>
 <img width="80" alt="badge1" src="https://img.shields.io/badge/License-MOZILLA-lightgrey">
 
